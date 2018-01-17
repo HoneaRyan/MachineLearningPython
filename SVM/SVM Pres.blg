@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SVM Pres.aux
+The style file: plain.bst
+Database file #1: citations.bib.bib
+Warning--to sort, need author or key in mnist
+Warning--empty author in mnist
+Warning--empty year in mnist
+You've used 4 entries,
+            2118 wiz_defined-function locations,
+            521 strings with 4398 characters,
+and the built_in function-call counts, 1023 in all, are:
+= -- 94
+> -- 44
+< -- 0
++ -- 18
+- -- 14
+* -- 74
+:= -- 174
+add.period$ -- 10
+call.type$ -- 4
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 38
+empty$ -- 85
+format.name$ -- 14
+if$ -- 205
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 3
+newline$ -- 21
+num.names$ -- 6
+pop$ -- 25
+preamble$ -- 1
+purify$ -- 15
+quote$ -- 0
+skip$ -- 29
+stack$ -- 0
+substring$ -- 45
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 3
+while$ -- 8
+width$ -- 5
+write$ -- 38
+(There were 3 warnings)

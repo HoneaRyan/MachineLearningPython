@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{mnist}
+The mnist database.
+\newblock {\em THE MNIST DATABASE}.
+
+\bibitem{Cortes1995}
+Corinna Cortes and Vladimir Vapnik.
+\newblock Support-vector networks.
+\newblock {\em Machine Learning}, 20(3):273--297, Sep 1995.
+
+\bibitem{lecun_bottou_bengio_haffner_1998}
+Yann Lecun, Leon Bottou, Yoshua Bengio, and Pattrick Haffner.
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proceedings of the IEEE}, Nov 1998.
+
+\bibitem{mit_2014}
+MIT.
+\newblock Learning: Support vector machines, Jan 2014.
+
+\end{thebibliography}

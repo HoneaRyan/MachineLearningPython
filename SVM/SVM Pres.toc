@@ -1,0 +1,15 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Definition of a Classification Problem}{4}{0}{1}
+\beamer@subsectionintoc {1}{2}{Bayes Decision Rule}{5}{0}{1}
+\beamer@subsectionintoc {1}{3}{Support Vector Machines}{6}{0}{1}
+\beamer@subsectionintoc {1}{4}{The Machine Learning Method}{9}{0}{1}
+\beamer@sectionintoc {2}{The Linear Case}{10}{0}{2}
+\beamer@subsectionintoc {2}{1}{Example Point Cloud}{11}{0}{2}
+\beamer@subsectionintoc {2}{2}{Results}{12}{0}{2}
+\beamer@sectionintoc {3}{The Polynomial Case}{14}{0}{3}
+\beamer@subsectionintoc {3}{1}{Example Point Cloud}{15}{0}{3}
+\beamer@subsectionintoc {3}{2}{Introducing the Kernel Trick}{16}{0}{3}
+\beamer@subsectionintoc {3}{3}{Results}{18}{0}{3}
+\beamer@sectionintoc {4}{The Image Case (MNist Database)}{20}{0}{4}
+\beamer@sectionintoc {5}{Conclusion}{23}{0}{5}
